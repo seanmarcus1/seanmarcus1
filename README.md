@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Labs</b>
-  - [EDR Attack and Defense Lab](https://github.com/seanmarcus1/URL)
+  - [EDR Attack and Defense Lab](https://github.com/seanmarcus1/EDR-Attack-and-Defend)
   - [Configuring a Honeypot](https://github.com/seanmarcus1/URL)
 - <b>Python</b>
   - [Creating a Keylogger in Python](https://github.com/seanmarcus1/URL)
