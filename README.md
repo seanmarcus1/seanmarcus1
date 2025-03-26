@@ -4,7 +4,7 @@
 
 - <b>Home Labs</b>
   - [EDR Attack and Defense Lab](https://github.com/seanmarcus1/EDR-Attack-and-Defend)
-  - [Configuring a Honeypot](https://github.com/seanmarcus1/URL)
+  - [Azure Honeypot Lab](https://github.com/seanmarcus1/Azure-Honeypot-Live-Attack-Visualization)
 - <b>Python</b>
   - [Creating a Keylogger in Python](https://github.com/seanmarcus1/URL)
 
