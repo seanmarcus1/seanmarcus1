@@ -6,6 +6,7 @@
   - [EDR Attack and Defense Lab](https://github.com/seanmarcus1/EDR-Attack-and-Defend)
   - [Azure Honeypot Lab](https://github.com/seanmarcus1/Azure-Honeypot-Live-Attack-Visualization)
   - [Active Directory Lab](https://github.com/seanmarcus1/Active-Directory-Lab)
+  - [Cyber Risk Assessment Lab](https://github.com/seanmarcus1/Cyber-Risk-Assessment-Lab)
 
 <h2>📄 Certifications</h2>
 
