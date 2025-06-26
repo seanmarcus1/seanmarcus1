@@ -10,7 +10,7 @@
 <h2>🖥️ IT Projects:</h2>
 
 - <b> 🔑 Active Directory Lab Series</b>
-- [Active Directory Setup](https://github.com/seanmarcus1/Active-Directory-Lab)
+  - [Active Directory Setup](https://github.com/seanmarcus1/Active-Directory-Lab)
 
 <h2>📄 Certifications</h2>
 
