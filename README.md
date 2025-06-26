@@ -5,8 +5,12 @@
 - <b> 🏠 Home Labs</b>
   - [EDR Attack and Defense Lab](https://github.com/seanmarcus1/EDR-Attack-and-Defend)
   - [Azure Honeypot Lab](https://github.com/seanmarcus1/Azure-Honeypot-Live-Attack-Visualization)
-  - [Active Directory Lab](https://github.com/seanmarcus1/Active-Directory-Lab)
   - [Cyber Risk Assessment Lab](https://github.com/seanmarcus1/Cyber-Risk-Assessment-Lab)
+
+<h2>🖥️ IT Projects:</h2>
+
+- <b> 🔑 Active Directory Lab Series</b>
+- [Active Directory Setup](https://github.com/seanmarcus1/Active-Directory-Lab)
 
 <h2>📄 Certifications</h2>
 
