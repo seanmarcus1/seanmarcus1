@@ -11,6 +11,7 @@
 
 - <b> 🔑 Active Directory Lab Series</b>
   - [Active Directory Setup](https://github.com/seanmarcus1/Active-Directory-Lab)
+  - [Jira Ticketing System](https://github.com/seanmarcus1/Jira-Ticketing-System)
 
 <h2>📄 Certifications</h2>
 
